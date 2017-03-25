@@ -3,7 +3,7 @@
 ## Brief Description
 This ATMEGA328P based board has been created to enable wireless monitoring of your power meter. The product comprises of two parts, one sensor attachment and one custom ATMEGA328P board that the sensor connects to. Both parts are enclosed inside of their own 3D printed enclosures to ensure safety to the devices.
 
-This device has been designed to be located directly on your power meter, the sensor is stuck to the front and the microcontroller is enclosed off to the side of the meter, designed to stick to the side also with velcro, but you can put it where you wish. The sensor module is attached to the microcontroller device via a 3.5mm audio jack but obviously this can be modified to suit your personal needs.
+This device has been designed to be located directly on your power meter, the sensor is stuck to the front and the microcontroller is enclosed off to the side of the meter, designed to stick to the side also with velcro, but you can put it where you wish. The sensor module is attached to the microcontroller device via a MicroUSB connector but obviously this can be modified to suit your personal needs.
 
 As the module is running with an external 16MHz crystal, we are able to use MYSBootloader to enable us to use OTA Firmware Updates, saving you from having to physically get the module for a software/firmware update. We have also allowed the use of a ATSHA204 hardware signing by including a footprint for the ATSHA204 IC on the controller board.
 
@@ -17,6 +17,7 @@ As the module is running with an external 16MHz crystal, we are able to use MYSB
 ## Connectors
 - FTDI and SPI for firmware upgrades
 - Micro USB for Powering the device
+- Micro USB for sensor connection
 
 ## Connections
 #### Radio Frequency
@@ -49,7 +50,7 @@ Footprints for the following radios will be included.
 
 Will update sketches once i receive PCBs to test different variants of software out:
 
-[Located here](https://www.mysensors.org/build/pulse_power), alternatively you can find the sketch code on my [github](https://github.com/samuel235/Homini-Pulse-Meter-Monitor)
+[Generic sketch Located here](https://www.mysensors.org/build/pulse_power), alternatively you can find customised sketches on my [github](https://github.com/samuel235/Homini-Pulse-Meter-Monitor)
 
 ## Testing
 Testing will commence once micro-controller board has been designed and assembled.
@@ -58,13 +59,13 @@ Testing will commence once micro-controller board has been designed and assemble
 [//]: # "2.  - **COMPLETED**"
 
 ## TO-DO List
-1. Design microcontroller board
-2. Send microcontroller board off to be produced
+1. Design micro-controller board - **COMPLETED**
+2. Send micro-controller board off to be produced
 3. Assemble and test sensor board
-4. Assemble and test microntroller board
+4. Assemble and test micro-controller board
 
 ## Update Log:
-- Sensor board ordered (15/03/17)
+- Micro-Controller board designed (25/03/17)
 - Sensor board designed (15/03/17)
 
 ## Issues
