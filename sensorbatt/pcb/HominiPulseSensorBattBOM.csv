@@ -1,0 +1,14 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"0.1uF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";
+"DOUT";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";
+"GND";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";
+"LED1";"Red";"LED3MM";"LED3MM";"LED";"";
+"LOGO1";"OSHW-LOGOS";"OSHW-LOGOS";"OSHW-LOGO-S";"Open-Source Hardware (OSHW) Logo";"";
+"Q1";"BS250SMD";"BS250SMD";"SOT23";"P-CHANNEL MOS FET";"";
+"R1";"330K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"R2";"100K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"R3";"470K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"R4";"1K5";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"R5";"5549-LDR";"5549-LDR";"LDR-PTH";"";"";
+"SJ1";"";"SJ";"SJ";"SMD solder JUMPER";"";
+"VCC";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";
