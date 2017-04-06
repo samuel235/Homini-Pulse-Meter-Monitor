@@ -1,0 +1,12 @@
+Part  Value      Device       Package      Description                                 
+5V               SMD2         SMD1,27-2,54 SMD PAD                                     
+C1    0.1uF      C-EUC0603    C0603        CAPACITOR, European symbol                  
+D1    PD204-6C   PD204-6C     3MM-PTH                                                  
+DOUT             SMD2         SMD1,27-2,54 SMD PAD                                     
+GND              SMD2         SMD1,27-2,54 SMD PAD                                     
+IC1   LM393D     LM393D       SO08         COMPARATOR                                  
+LED1  Red        LED3MM       LED3MM       LED                                         
+LOGO1 OSHW-LOGOS OSHW-LOGOS   OSHW-LOGO-S  Open-Source Hardware (OSHW) Logo            
+R1    33k        R-EU_R0603   R0603        RESISTOR, European symbol                   
+R2    180R       R-EU_R0603   R0603        RESISTOR, European symbol                   
+TM1   10k        TRIMPOTTC33X TC33X        SMT trimmer potentiometer part number TC33X 
