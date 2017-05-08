@@ -47,9 +47,7 @@ Will update sketches once I receive PCBs to test different variants of software 
 Testing will commence once boards have been received and assembled.
 
 1. Controller board - Mains powered version - **COMPLETED**
-[//]: # "2. Controller board - Battery powered version - **COMPLETED**"
 2. Sensor board - Mains powered version - **COMPLETED**
-[//]: # "4. Sensor board - Battery powered version - **COMPLETED**"
 
 ## TO-DO List
 1. Add battery monitoring circuitry for next version
